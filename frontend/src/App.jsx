@@ -59,7 +59,7 @@ function App() {
     setExplanation("");
 
     try {
-      const response = await fetch("http://127.0.0.1:5000/predict", {
+      const response = await fetch("https://house-price-prediction-y80k.onrender.com/predict", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
