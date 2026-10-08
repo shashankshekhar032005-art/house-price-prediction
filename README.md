@@ -194,7 +194,7 @@ house-price-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/house-price-prediction.git
+git clone https://github.com/shashankshekhar032005-art/house-price-prediction.git
 ```
 
 Move into the project:
@@ -337,7 +337,7 @@ The live deployment link will be added here after deployment.
 
 ### Live Demo
 
-🔗 **Coming soon**
+🔗 `https://housepps.netlify.app`
 
 ### GitHub Repository
 
