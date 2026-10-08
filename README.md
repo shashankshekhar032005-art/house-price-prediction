@@ -341,7 +341,7 @@ The live deployment link will be added here after deployment.
 
 ### GitHub Repository
 
-🔗 `https://github.com/YOUR-USERNAME/house-price-prediction`
+🔗 `https://github.com/shashankshekhar032005-art/house-price-prediction`
 
 ---
 
